@@ -1,2 +1,2 @@
 # hello-world
-test app for Chris
+test app for Chris the man
